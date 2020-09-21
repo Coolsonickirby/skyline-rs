@@ -8,7 +8,7 @@ edition = "2018"
 
 [dependencies]
 skyline_macro = { path = "./skyline_macro" }
-nnsdk = { git = "https://github.com/ultimate-research/nnsdk-rs.git" }
+nnsdk = { git = "https://github.com/Coolsonickirby/nnsdk-rs.git" }
 libc-nnsdk = { git = "https://github.com/ultimate-research/libc-nnsdk.git" }
 
 [features]
